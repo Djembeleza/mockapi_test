@@ -1,0 +1,7 @@
+{
+    "Item": {
+        "title": "string",
+        "price": "int",
+        "is_available": "boolean"
+    }
+}
